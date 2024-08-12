@@ -1,0 +1,4 @@
+openai
+pinecone-client
+google-auth
+google-cloud-translate
